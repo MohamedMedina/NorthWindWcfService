@@ -1,0 +1,6 @@
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\obj\Debug\NorthWindWcfService.csprojResolveAssemblyReference.cache
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\bin\Debug\NorthWindWcfService.dll.config
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\bin\Debug\NorthWindWcfService.dll
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\bin\Debug\NorthWindWcfService.pdb
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\obj\Debug\NorthWindWcfService.dll
+c:\users\gt910564\documents\visual studio 2017\Projects\NorthWindWcfService\NorthWindWcfService\obj\Debug\NorthWindWcfService.pdb

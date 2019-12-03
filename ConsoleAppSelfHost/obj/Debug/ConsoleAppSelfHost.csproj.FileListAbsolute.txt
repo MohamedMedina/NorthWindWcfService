@@ -1,0 +1,6 @@
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\bin\Debug\ConsoleAppSelfHost.exe.config
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\bin\Debug\ConsoleAppSelfHost.exe
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\bin\Debug\ConsoleAppSelfHost.pdb
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\obj\Debug\ConsoleAppSelfHost.csprojResolveAssemblyReference.cache
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\obj\Debug\ConsoleAppSelfHost.exe
+C:\Users\GT910564\Documents\Visual Studio 2017\Projects\NorthWindWcfService\ConsoleAppSelfHost\obj\Debug\ConsoleAppSelfHost.pdb
